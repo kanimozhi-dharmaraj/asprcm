@@ -97,7 +97,7 @@ sup{
     font-weight: 700;
     margin-top: 10px;
 	color:#1665ab;
-	min-height:110px;
+	height:63px;
 }
 .hidden-overflow{
 	overflow:hidden;
@@ -168,7 +168,7 @@ header .logo img{
 	color:#033a99;
 }
 footer{
-	height:537px;
+	height:570px;
 	padding-top:70px;
 	background:#033a99;
 	margin-top:50px;
@@ -355,6 +355,7 @@ button:hover{
 .footer-section .footer-address p{
 	color:#fff;
 	line-height:22px;
+	line-height:28px;
 }
 .footer-copy-info{
 	text-align:center;
